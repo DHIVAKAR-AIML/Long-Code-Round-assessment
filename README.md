@@ -19,8 +19,6 @@ You can search movies by title , language or date and book seats with payment co
 
 ## How to run
 
-make sure python 3 is installed
-
 ```bash
 python movieticket.py
 ```
